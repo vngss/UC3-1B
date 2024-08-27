@@ -3,11 +3,25 @@ Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os co
 
 
 ## Conteúdo Técnico
-Escreva aqui os conteúdos aprendidos.
+ana luisa
 
+Javascript
 
+-tipos de variáveis
+
+var: Permite redeclarar a variável e alterar seu valor a qualquer momento.
+
+let: Permite declarar a variável apenas uma vez, mas você pode modificar seu valor depois.
+
+const: Não permite redeclarar a variável nem mudar seu valor após a declaração.
 
 ## Atividades desenvolvidas
-Escreva aqui as atividades desenvolvidas em sala e para casa. Você pode detelhar a atividade e usar links das atividades do codepen e vídeos desenvolvidos em sala. 
+[const](https://codepen.io/Ana000_4/pen/mdZXNXN)
 
+[const](https://codepen.io/Ana000_4/pen/poXWYqW)
 
+[var](https://codepen.io/Ana000_4/pen/MWMrVNo)
+
+[const](https://codepen.io/Ana000_4/pen/xxoYvxp)
+
+[primeira aula](https://codepen.io/Ana000_4/pen/MWMXPxV)
