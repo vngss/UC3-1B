@@ -16,12 +16,19 @@ let: Permite declarar a variável apenas uma vez, mas você pode modificar seu v
 const: Não permite redeclarar a variável nem mudar seu valor após a declaração.
 
 ## Atividades desenvolvidas
-[const](https://codepen.io/Ana000_4/pen/mdZXNXN)
 
-[const](https://codepen.io/Ana000_4/pen/poXWYqW)
-
-[var](https://codepen.io/Ana000_4/pen/MWMrVNo)
-
-[const](https://codepen.io/Ana000_4/pen/xxoYvxp)
+[hello world](https://codepen.io/Ana000_4/pen/yLdERwp)
 
 [primeira aula](https://codepen.io/Ana000_4/pen/MWMXPxV)
+
+[jogo de minecraft](https://codepen.io/Ana000_4/pen/gOVrQmm)
+
+[const numeros](https://codepen.io/Ana000_4/pen/dyBazBy)
+
+[calcular media de nota](https://codepen.io/Ana000_4/pen/YzogKJp)
+
+[juntar livros](https://codepen.io/Ana000_4/pen/xxoYvxp)
+
+
+
+
