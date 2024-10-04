@@ -31,6 +31,9 @@ const: Não permite redeclarar a variável nem mudar seu valor após a declaraç
 
 [lista de frutas](https://codepen.io/Ana000_4/pen/MWMrVNo)
 
+[aula 04/10/24](https://codepen.io/Ana000_4/pen/VwoaVGm)
+
+
 
 
 
