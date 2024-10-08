@@ -33,6 +33,10 @@ const: Não permite redeclarar a variável nem mudar seu valor após a declaraç
 
 [aula 04/10/24](https://codepen.io/Ana000_4/pen/VwoaVGm)
 
+[aula 07/10/24](https://codepen.io/Ana000_4/pen/qBeaPYY)
+
+[aula 08/10/24](https://codepen.io/Ana000_4/pen/abemLRY)
+
 
 
 
