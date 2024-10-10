@@ -37,7 +37,7 @@ const: Não permite redeclarar a variável nem mudar seu valor após a declaraç
 
 [aula 08/10/24](https://codepen.io/Ana000_4/pen/abemLRY)
 
-
+[aula 10/10/24 (crie uma função que interaja com uma array) ](https://codepen.io/Ana000_4/pen/MWNbQmw)
 
 
 
