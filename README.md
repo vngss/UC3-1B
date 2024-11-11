@@ -95,6 +95,8 @@ As estruturas condicionais permitem que o programa tome decisões com base em co
 
 [aula 10/10/24 (crie uma função que interaja com uma array) ](https://codepen.io/Ana000_4/pen/MWNbQmw)
 
+[aula 11/11/24 (notação por .; notação por colchetes; usando template strings; metodos substring...) ](https://codepen.io/lelbwend-the-scripter/pen/XWvoaXv)
+
 
 
 
